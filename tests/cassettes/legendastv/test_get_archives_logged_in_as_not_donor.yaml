@@ -1,6 +1,6 @@
 interactions:
 - request:
-    body: !!python/unicode data%5BUser%5D%5Bpassword%5D=Fe384384&data%5BUser%5D%5Busername%5D=fernandovg&_method=POST
+    body: !!python/unicode data%5BUser%5D%5Bpassword%5D=subliminal&data%5BUser%5D%5Busername%5D=subliminal&_method=POST
     headers:
       Accept: ['*/*']
       Accept-Encoding: ['gzip, deflate']
